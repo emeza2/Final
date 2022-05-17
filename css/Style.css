@@ -1,0 +1,67 @@
+body{
+background:black;
+}
+div.container{
+background:rgb(25, 67, 145);
+width: 100%;
+height:Auto;
+}
+nav.navbar.navbar-light.bg-light{
+    background:  rgb(25, 67, 145);
+}
+h5{color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+.img-fluid{
+    width: 500%;
+    height: 700px;
+}
+h2{
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+}
+a.nav-link{
+    font-family:'Courier New', Courier, monospace;
+}
+.card-body{
+    flex:1 1 auto;
+    padding:1rem 1rem;
+    width: 500px;
+}
+div.card{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img.d-block.w-100{
+    width:100%;
+}
+div.slides{
+    width: 50%;
+    margin: 0 auto;
+}
+div.aboutMe{
+    display: flex;
+    color: aliceblue;
+}
+div.aboutMe img{
+    width: 50%;
+}
+p{
+    color:aliceblue;
+}
+h2{
+    text-align: center;
+}
+p.card-text{
+    color:black;
+}
+p.card-text2{
+    color: aliceblue;
+    font-size: large;
+}
+h3{
+padding-top: 40%;
+}
